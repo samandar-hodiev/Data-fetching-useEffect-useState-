@@ -2,6 +2,6 @@
 # React JS
 
 ## useEffect()
-## useStaet()
+## useState()
 
 ## Data fetching  by  useEffect() and  useStaet()
